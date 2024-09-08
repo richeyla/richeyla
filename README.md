@@ -1,4 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Spicy+Rice&size=28&pause=1000&color=F7F7F7&background=4C00FF00&width=435&lines=Hi+%F0%9F%91%8B%2C+Soy+Richeyla+Fern%C3%A1ndez;Software+developer+en+proceso" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Spicy+Rice&size=33&pause=1000&color=000000&background=FFFFFF&width=435&lines=Hi+%F0%9F%91%8B%2C+Soy+Richeyla+Fern%C3%A1ndez;Software+developer+en+proceso" alt="Typing SVG" />
+  </a>
+</div>
+
 
 
 # 💫 About Me:
