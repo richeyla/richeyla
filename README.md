@@ -4,6 +4,13 @@
 # 💫 About Me:
 Soy una desarrolladora de software en proceso, tengo 22 años y soy originaria de República Dominicana. Me apasiona la tecnología y el aprendizaje continuo, lo que me ha llevado a adquirir experiencia en HTML, CSS, JavaScript/TypeScript, Node.js, y frameworks como Bootstrap y Express.<br><br>Me considero una persona adaptable, que disfruta trabajar en equipo, lo cual me permite enfrentar nuevos desafíos con entusiasmo. Siempre busco oportunidades para crecer, aportar ideas frescas y colaborar en proyectos innovadores que generen impacto. ¡Estoy lista para seguir aprendiendo y contribuyendo en el mundo del desarrollo de software!
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/richeyla-fern%c3%a1ndez-90a356233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/richeyla-fern%c3%a1ndez-90a356233/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/richeyla_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/richeyla_/" height="30" width="40" /></a>
+<a href="https://discord.gg/richeyla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="richeyla" height="30" width="40" /></a>
+</p>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/richeyla) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/richeyla_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/richeyla-fern%C3%A1ndez-90a356233/) 
