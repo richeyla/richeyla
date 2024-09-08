@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Soy Richeyla Fernandez</h1>
-<h3 align="center">Software developer en proceso</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Spicy+Rice&size=28&pause=1000&color=F7F7F7&background=4C00FF00&width=435&lines=Hi+%F0%9F%91%8B%2C+Soy+Richeyla+Fern%C3%A1ndez;Software+developer+en+proceso" alt="Typing SVG" /></a>
+
 
 # 💫 About Me:
 Soy una desarrolladora de software en proceso, tengo 22 años y soy originaria de República Dominicana. Me apasiona la tecnología y el aprendizaje continuo, lo que me ha llevado a adquirir experiencia en HTML, CSS, JavaScript/TypeScript, Node.js, y frameworks como Bootstrap y Express.<br><br>Me considero una persona adaptable, que disfruta trabajar en equipo, lo cual me permite enfrentar nuevos desafíos con entusiasmo. Siempre busco oportunidades para crecer, aportar ideas frescas y colaborar en proyectos innovadores que generen impacto. ¡Estoy lista para seguir aprendiendo y contribuyendo en el mundo del desarrollo de software!
