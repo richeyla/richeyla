@@ -1,8 +1,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Spicy+Rice&size=33&pause=1000&color=000000&background=FFFFFF&width=435&lines=Hi+%F0%9F%91%8B%2C+Soy+Richeyla+Fern%C3%A1ndez;Software+developer+en+proceso" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Spicy+Rice&size=25&duration=5500&pause=1000&color=FF834E&background=FFFFFF&center=true&vCenter=true&height=60&lines=Hi+%F0%9F%91%8B%2C+Soy+Richeyla+Fern%C3%A1ndez;Software+developer+en+proceso" alt="Typing SVG" />
   </a>
 </div>
+
 
 
 
